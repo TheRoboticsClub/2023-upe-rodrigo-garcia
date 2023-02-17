@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JdeRobots Internship Blanca Soria
-email:
+title: Prácticas JdeRobots Rodrigo García Suárez
+email: rogarsu2014@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Soy Rodrigo García Suárez y en esta página voy a relatar mi periodo de prácticas en JdeRobots, más especificamente en el proyecto Unibotics.
-twitter_username: username
+twitter_username: Rogarsu2014
 github_username: Rogarsu2014
 minimal_mistakes_skin: default
 search: true
