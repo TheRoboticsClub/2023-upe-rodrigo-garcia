@@ -16,10 +16,9 @@
 title: JdeRobots Internship Blanca Soria
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! my name is Blanca and this is my internship blog in JdeRobots 
-  where i'll be working on Unibotics page.
+  Soy Rodrigo García Suárez y en esta página voy a relatar mi periodo de prácticas en JdeRobots, más especificamente en el proyecto Unibotics.
 twitter_username: username
-github_username: Blancasr
+github_username: Rogarsu2014
 minimal_mistakes_skin: default
 search: true
 
@@ -57,34 +56,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hey que pasa"
+  name   : "Rodrigo García Suárez"
+  avatar : "/assets/images/bio-photo.JPG"
+  bio    : "A lo hecho pecho y a otra cosa, que no hay peor que remordimiento sin enmienda"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/rogarsu2014"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Blancasr"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Rogarsu2014"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/rogarsu2014"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Blancasr"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Rogarsu2014"
 
 defaults:
   # _posts
