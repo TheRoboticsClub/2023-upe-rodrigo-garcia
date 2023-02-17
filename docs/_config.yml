@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Rodrigo García Suárez"
-  avatar : "/assets/images/bio-photo.JPG"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "A lo hecho pecho y a otra cosa, que no hay peor que remordimiento sin enmienda"
   links:
     - label: "Twitter"
